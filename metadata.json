@@ -1,0 +1,6 @@
+{
+  "name": "StudyPulse - Smart Study Companion & Resource Hub",
+  "description": "Zero-login personalized study companion aggregating top verified learning resources, intelligent routine planner, Pomodoro focus mode, and gamified progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

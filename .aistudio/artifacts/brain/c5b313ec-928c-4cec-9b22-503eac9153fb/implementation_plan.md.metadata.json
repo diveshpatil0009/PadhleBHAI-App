@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for:\n1. Interactive Mock Test Simulator & NCERT Question Bank Practice with timed CBT exam UI, question status palette, instant solution explanations, and XP scoring.\n2. Formula Flashcard Deck with 3D flip animations, spaced repetition self-rating, and custom card creation.\n3. Print-friendly PDF / study handout export and complete JSON data backup/restore.\n4. Seamless dashboard integration with mobile-optimized layout.",
+  "updatedAt":  "2026-09-27T15:14:48.738991212Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
